@@ -1,6 +1,6 @@
 {
   "name": "give-random-name",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get random names whith this package and use it your way ",
   "main": "src/index.js",
   "bin": {

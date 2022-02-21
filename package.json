@@ -1,0 +1,31 @@
+{
+  "name": "give-random-name",
+  "version": "1.0.0",
+  "description": "get random names whith this package and use it your way ",
+  "main": "src/index.js",
+  "bin": {
+    "give-random-name": "bin/global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FReyesft/give-random-name.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "random",
+    "name",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "node"
+  ],
+  "author": "Fernando Reyez Pinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FReyesft/give-random-name/issues"
+  },
+  "homepage": "https://github.com/FReyesft/give-random-name#readme"
+}

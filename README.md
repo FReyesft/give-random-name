@@ -1,12 +1,12 @@
 
 # random-messages
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+This package has the function of bringing a random name, every day new names are being added to the list so that they can be used in your projects.
 
 ## Install
 
 ```npm
-npm install -g random-msg
+npm i give-random-name
 ```
 
 # Usage
@@ -16,7 +16,7 @@ random-msg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [give-random-name](https://github.com/FReyesft/give-random-name)
 
 # License
-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+give-random-name is released under the [MIT License](https://opensource.org/licenses/MIT).

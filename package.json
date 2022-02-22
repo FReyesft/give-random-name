@@ -25,5 +25,12 @@
   "bugs": {
     "url": "https://github.com/FReyesft/give-random-name/issues"
   },
-  "homepage": "https://github.com/FReyesft/give-random-name#readme"
+  "homepage": "https://github.com/FReyesft/give-random-name#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "optionalDependencies": {
+    "date": "^1.0.2",
+    "o": "^2.3.2"
+  }
 }
